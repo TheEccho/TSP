@@ -1,0 +1,14 @@
+# Игнорировать папку build
+build/
+
+# Игнорировать сгенерированные исполняемые файлы
+*.exe
+*.o
+*.obj
+
+# Игнорировать временные файлы CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
